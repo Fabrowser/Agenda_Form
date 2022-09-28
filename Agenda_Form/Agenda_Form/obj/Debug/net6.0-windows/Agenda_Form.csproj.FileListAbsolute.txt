@@ -1,0 +1,17 @@
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\bin\Debug\net6.0-windows\Agenda_Form.exe
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\bin\Debug\net6.0-windows\Agenda_Form.deps.json
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\bin\Debug\net6.0-windows\Agenda_Form.runtimeconfig.json
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\bin\Debug\net6.0-windows\Agenda_Form.dll
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\bin\Debug\net6.0-windows\Agenda_Form.pdb
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.csproj.GenerateResource.cache
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.AssemblyInfo.cs
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.dll
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\refint\Agenda_Form.dll
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.pdb
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.genruntimeconfig.cache
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\ref\Agenda_Form.dll
+C:\Users\fabri\source\repos\Agenda_Form\Agenda_Form\obj\Debug\net6.0-windows\Agenda_Form.FormAgenda.resources
